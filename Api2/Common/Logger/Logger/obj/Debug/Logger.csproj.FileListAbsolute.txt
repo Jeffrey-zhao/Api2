@@ -1,0 +1,9 @@
+D:\GitHub\Api2\PAT\Common\Logger\Logger\bin\Debug\Logger.dll
+D:\GitHub\Api2\PAT\Common\Logger\Logger\bin\Debug\Logger.pdb
+D:\GitHub\Api2\PAT\Common\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+D:\GitHub\Api2\PAT\Common\Logger\Logger\obj\Debug\Logger.dll
+D:\GitHub\Api2\PAT\Common\Logger\Logger\obj\Debug\Logger.pdb
+D:\GitHub\Api2\Api2\Common\Logger\Logger\bin\Debug\Logger.dll
+D:\GitHub\Api2\Api2\Common\Logger\Logger\bin\Debug\Logger.pdb
+D:\GitHub\Api2\Api2\Common\Logger\Logger\obj\Debug\Logger.dll
+D:\GitHub\Api2\Api2\Common\Logger\Logger\obj\Debug\Logger.pdb
