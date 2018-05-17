@@ -43,4 +43,3 @@ D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvcApi\bin\System.Web.WebPages.Razor.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvcApi\bin\Antlr3.Runtime.pdb
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvcApi\obj\Debug\WebMvcApi.dll
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvcApi\obj\Debug\WebMvcApi.pdb
-D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvcApi\obj\Debug\WebMvcApi.csprojResolveAssemblyReference.cache
