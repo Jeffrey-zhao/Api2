@@ -1,3 +1,4 @@
+D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.Razor.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\roslyn\csc.exe
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -29,7 +30,6 @@ D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\Microsoft.CodeDom.Providers.DotN
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.Helpers.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.Mvc.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.Optimization.xml
-D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.Razor.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.WebPages.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.WebPages.Deployment.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\System.Web.WebPages.Razor.xml
@@ -37,3 +37,4 @@ D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\Antlr3.Runtime.pdb
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\bin\Newtonsoft.Json.xml
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\obj\Debug\WebMvc.dll
 D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\obj\Debug\WebMvc.pdb
+D:\GitHub\Api2\Api2\TestParts\WebApi\WebMvc\obj\Debug\WebMvc.csprojResolveAssemblyReference.cache
