@@ -41,6 +41,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.HttpMessageHandler", "3.H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppHttpMessageHandler", "WebApplication\3.HttpMessageHandler\WebAppHttpMessageHandler\WebAppHttpMessageHandler.csproj", "{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppWebHost", "WebApplication\3.HttpMessageHandler\WebAppWebHost\WebAppWebHost.csproj", "{F029A98A-6212-4743-990D-0A7478AC779D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "WebApplication\3.HttpMessageHandler\ConsoleApp\ConsoleApp.csproj", "{8E7465A0-1E1F-4706-862C-BC7B90DCC002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +95,14 @@ Global
 		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F029A98A-6212-4743-990D-0A7478AC779D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F029A98A-6212-4743-990D-0A7478AC779D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F029A98A-6212-4743-990D-0A7478AC779D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F029A98A-6212-4743-990D-0A7478AC779D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7465A0-1E1F-4706-862C-BC7B90DCC002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7465A0-1E1F-4706-862C-BC7B90DCC002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7465A0-1E1F-4706-862C-BC7B90DCC002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7465A0-1E1F-4706-862C-BC7B90DCC002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -112,5 +124,7 @@ Global
 		{547CD249-FAAE-4FCC-B6C3-0940745C776A} = {C09A54E6-AA1A-4094-AE81-78B50181E527}
 		{09B6F78A-DB04-4C00-9D70-DDB9915FF8DA} = {DDB4CC89-6C4D-4884-9C1C-B38C13243C79}
 		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318} = {09B6F78A-DB04-4C00-9D70-DDB9915FF8DA}
+		{F029A98A-6212-4743-990D-0A7478AC779D} = {09B6F78A-DB04-4C00-9D70-DDB9915FF8DA}
+		{8E7465A0-1E1F-4706-862C-BC7B90DCC002} = {09B6F78A-DB04-4C00-9D70-DDB9915FF8DA}
 	EndGlobalSection
 EndGlobal
