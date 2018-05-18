@@ -37,6 +37,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Route", "2.Route", "{C09A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRoute", "WebApplication\2.Route\WebAppRoute\WebAppRoute.csproj", "{547CD249-FAAE-4FCC-B6C3-0940745C776A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.HttpMessageHandler", "3.HttpMessageHandler", "{09B6F78A-DB04-4C00-9D70-DDB9915FF8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppHttpMessageHandler", "WebApplication\3.HttpMessageHandler\WebAppHttpMessageHandler\WebAppHttpMessageHandler.csproj", "{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,10 @@ Global
 		{547CD249-FAAE-4FCC-B6C3-0940745C776A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{547CD249-FAAE-4FCC-B6C3-0940745C776A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{547CD249-FAAE-4FCC-B6C3-0940745C776A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,5 +110,7 @@ Global
 		{40DB4F40-2858-43B6-96C8-53C5081EB290} = {DDB4CC89-6C4D-4884-9C1C-B38C13243C79}
 		{C09A54E6-AA1A-4094-AE81-78B50181E527} = {DDB4CC89-6C4D-4884-9C1C-B38C13243C79}
 		{547CD249-FAAE-4FCC-B6C3-0940745C776A} = {C09A54E6-AA1A-4094-AE81-78B50181E527}
+		{09B6F78A-DB04-4C00-9D70-DDB9915FF8DA} = {DDB4CC89-6C4D-4884-9C1C-B38C13243C79}
+		{5631C09A-E9F5-4FB9-BA8C-AE661D1F5318} = {09B6F78A-DB04-4C00-9D70-DDB9915FF8DA}
 	EndGlobalSection
 EndGlobal
